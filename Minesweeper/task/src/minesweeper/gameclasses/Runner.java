@@ -1,4 +1,6 @@
-package minesweeper;
+package minesweeper.gameclasses;
+
+import minesweeper.gameclasses.Minesweeper;
 
 public class Runner {
 
@@ -6,10 +8,6 @@ public class Runner {
 
         Minesweeper.createGrid();
         Minesweeper.play();
-
-
-
-
 
     }
 }
