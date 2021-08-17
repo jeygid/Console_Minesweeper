@@ -17,4 +17,5 @@ public class Cell {
     public int getJ() {
         return j;
     }
+
 }

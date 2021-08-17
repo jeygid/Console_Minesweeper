@@ -16,6 +16,7 @@ public class Minesweeper {
 
     public static Scanner scanner = new Scanner(System.in);
 
+
     public static void openFreeCells(int i, int j) {
 
         cellQueue.add(new Cell(i, j));
